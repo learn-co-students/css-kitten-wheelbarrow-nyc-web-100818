@@ -42,7 +42,7 @@ img {
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
-img {
+a {
   position: absolute;
   z-index: 3;
   top: 217px;
