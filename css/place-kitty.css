@@ -1,10 +1,10 @@
 /* Select the image with a class of kitty-1 */
 
-img {
-  position: relative;
-  z-index: 11;
-  cursor: pointer;
-}
+/*img {*/
+/*  position: relative;*/
+/*  z-index: 11;*/
+/*  cursor: pointer;*/
+/*}*/
 
 .class kitty-1 {
   position: absolute;
