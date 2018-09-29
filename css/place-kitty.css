@@ -6,7 +6,7 @@
 /*  cursor: pointer;*/
 /*}*/
 
-.class kitty-1 {
+div id:kitty-1 {
   position: absolute;
   z-index: 1;
   top: 276px;
